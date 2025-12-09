@@ -1,0 +1,5 @@
+{
+  "name": "WeatherAI",
+  "description": "An intelligent solar irradiance forecasting tool powered by Gemini. Upload historical solar CSV data, define your coordinates, and generate AI-driven predictions for future energy potential.",
+  "requestFramePermissions": []
+}
