@@ -41,3 +41,4 @@ The app uses sophisticated meteorological algorithms for accurate solar irradian
 2. The app uses **Open-Meteo** API for weather data and forecasting - no API key required!
 3. Run the app:
    `npm run dev`
+# solar
