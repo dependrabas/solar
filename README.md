@@ -42,3 +42,4 @@ The app uses sophisticated meteorological algorithms for accurate solar irradian
 3. Run the app:
    `npm run dev`
 # solar
+# solar
